@@ -9,3 +9,10 @@ body
     border: 1px solid rgb(148, 147, 147);
     padding: 16px;
 }
+
+.cabecera
+{
+    text-align: center;
+    font-size: xx-large;
+    padding: 4px;
+}
