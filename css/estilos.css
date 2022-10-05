@@ -19,20 +19,31 @@ body
     margin:0 auto
 }
 
-.container h1
+.cabecero
 {
+    font-size: 34px;
     color: white;
     background-color: rgb(52, 81, 213);
     text-align: left;
-    padding: 16px;
-    margin-top: 0px;
+    padding: 18px;
     box-shadow: 0px 7px 10px 0px rgba(153,150,153,1);
+}
+
+.subtitulo
+{
+    font-size: 17px;
+    padding-left: 32px;
+}
+
+.posts h1
+{
+    font-size: 30px;
     text-align: center;
 }
 
-.post
+.posts
 {
     font-size: 20px;
     padding-left: 12px;
-    padding-bottom: 8px;
+    padding-bottom: 4px;
 }
