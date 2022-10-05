@@ -7,22 +7,32 @@ body
 .cabecera
 {
     text-align: center;
-    font-size: xx-large;
-    padding: 4px;
+    font-size: 36px;
+    padding: 16px;
 }
 
 .container
 {
-    border: 1px solid rgb(148, 147, 147);
-    padding: 16px;
+    width:70%;
+    padding:0;
+    border:1px solid rgb(156, 156, 156);
+    margin:0 auto
 }
 
-.titulo
+.container h1
 {
-    box-shadow: 4px 4px 0px 2px rgba(130, 212, 247, 0.5);
-    border-radius: 16px;
+    color: white;
+    background-color: rgb(52, 81, 213);
+    text-align: left;
+    padding: 16px;
+    margin-top: 0px;
+    box-shadow: 0px 7px 10px 0px rgba(153,150,153,1);
     text-align: center;
-    padding: 8px;
-    margin-left: 48px;
-    margin-right: 48px;
+}
+
+.post
+{
+    font-size: 20px;
+    padding-left: 12px;
+    padding-bottom: 8px;
 }
