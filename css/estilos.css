@@ -21,17 +21,17 @@ body
 
 .cabecero
 {
-    font-size: 32px;
+    font-size: 34px;
     color: white;
     background-color: rgb(52, 81, 213);
     text-align: left;
-    padding: 16px;
+    padding: 18px;
     box-shadow: 0px 7px 10px 0px rgba(153,150,153,1);
 }
 
 .subtitulo
 {
-    font-size: 18px;
+    font-size: 17px;
     padding-left: 32px;
 }
 
