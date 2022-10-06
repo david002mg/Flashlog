@@ -1,7 +1,7 @@
 body
 {
     color: black;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .cabecera
@@ -15,11 +15,10 @@ body
 {
     width:70%;
     border:1px solid rgb(156, 156, 156);
-    padding-left: 12px;
     margin:0 auto
 }
 
-.cabecero
+.header
 {
     width: 70%;
     font-size: 38px;
@@ -31,13 +30,23 @@ body
     box-shadow: 0px 7px 10px 0px rgba(153,150,153,1);
 }
 
-.subcabecero
+.subheader
 {
     font-size: 20px;
     padding-left: 32px;
 }
 
-.titulo
+.footer
+{
+    font-size: 38px;
+    color: white;
+    background-color: gray;
+    margin: 0 auto;
+    text-align: left;
+    padding: 18px;
+}
+
+.title
 {
     padding-left: 24px;
 }
