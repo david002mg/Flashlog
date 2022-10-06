@@ -14,36 +14,43 @@ body
 .container
 {
     width:70%;
-    padding:0;
     border:1px solid rgb(156, 156, 156);
+    padding-left: 12px;
     margin:0 auto
 }
 
 .cabecero
 {
-    font-size: 34px;
+    width: 70%;
+    font-size: 38px;
     color: white;
     background-color: rgb(52, 81, 213);
+    margin: 0 auto;
     text-align: left;
     padding: 18px;
     box-shadow: 0px 7px 10px 0px rgba(153,150,153,1);
 }
 
-.subtitulo
+.subcabecero
 {
-    font-size: 17px;
+    font-size: 20px;
     padding-left: 32px;
 }
 
-.posts h1
+.titulo
 {
-    font-size: 30px;
-    text-align: center;
+    padding-left: 24px;
 }
 
-.posts
+.post-title
 {
-    font-size: 20px;
+    font-size: 22px;
     padding-left: 12px;
     padding-bottom: 4px;
+}
+
+.description-post
+{
+    font-size: 17px;
+    padding-left: 4px;
 }
